@@ -25,3 +25,5 @@ Prostokat.prototype = Object.create(Czworokat.prototype);
 var test = new Prostokat(4,5);
 console.log(test.podaj_pole())
 console.log(test.podaj_obwod())
+
+//dobrze? nie da sie tego krocej zrobic? czekam na komentarz;
